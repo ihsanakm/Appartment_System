@@ -1,0 +1,14 @@
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database System- HND.csproj.AssemblyReference.cache
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Form2.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Form3.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Form4.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Form5.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Login.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database_System__HND.Properties.Resources.resources
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database System- HND.csproj.GenerateResource.cache
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database System- HND.csproj.CoreCompileInputs.cache
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\bin\Debug\Database System- HND.exe.config
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\bin\Debug\Database System- HND.exe
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\bin\Debug\Database System- HND.pdb
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database System- HND.exe
+E:\Black Pen\HND\Data Base\System\Database System- HND\Database System- HND\obj\Debug\Database System- HND.pdb
